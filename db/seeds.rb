@@ -1,33 +1,33 @@
 fish = [
     {
-        name: "Nala",
+        name: 'Nala',
         age: 4,
-        enjoys: "Big squeezes"
+        enjoys: 'Big squeezes'
     },
     {
-        name: "Pearl",
+        name: 'Pearl',
         age: 3,
-        enjoys: "Shells"
+        enjoys: 'Shells'
     },
     {
-        name: "Jorge",
+        name: 'Jorge',
         age: 11,
-        enjoys: "Danger"
+        enjoys: 'Danger'
     },
     {
-        name: "Buttah",
+        name: 'Buttah',
         age: 51,
-        enjoys: "Mindfullness"
+        enjoys: 'Mindfullness'
     },
     {
-        name: "Split",
+        name: 'Split',
         age: 6,
-        enjoys: "Nothing but everything"
+        enjoys: 'Nothing but everything'
     },
     {
-        name: "Whiskeytengofoxtrot",
+        name: 'Whiskeytengofoxtrot',
         age: 3,
-        enjoys: "Ruining your life"
+        enjoys: 'Ruining your life'
     }
 ]
 
